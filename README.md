@@ -3,7 +3,7 @@
 This is one of my old projects: a raycaster written in lua using the Love2D game framework.
 I wrote it in highschool with a friend as an coding exercise.
 
-![screenshot](https://s3.postimg.io/nw7vh1msj/Selection_001.png)
+![screenshot](https://s3.postimg.org/tku8a94w3/Raycaster_by_Alexander_Freeman_Jonathan_Toncke.png)
 
 ## How to run
 
